@@ -1,7 +1,7 @@
 # The Final Countdown - 2024 UMGMC Semester 2 Game Jam Project
 
 A networked 2D fighting game made for a week long game jam under the theme *Combos*
-
+https://simplyxtra.itch.io/the-final-countdown
 ---
 # Features
 - P2P Networked using Netick
